@@ -2,8 +2,6 @@
 
 > 🚀 Java Backend Developer | Spring Boot | React | SQL
 
-> **Replace `YOUR_GITHUB_USERNAME` everywhere below with your GitHub username.**
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bhavan%20Pande&fontSize=60&fontColor=00F0FF&animation=fadeIn&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Full%20Stack"/>
 </p>
@@ -14,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year CSE Student
+- 🎓 Graduate CSE Student
 - ☕ Java Backend Developer
 - 🌱 Learning Spring Boot, System Design, Microservices
 - 💻 React + MySQL + JDBC
