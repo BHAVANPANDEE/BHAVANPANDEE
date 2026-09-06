@@ -467,6 +467,7 @@ alt="Top languages"
 <img
 src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=020617"
 />
+bhavanpande18@gmail.com
 
 <br/>
 
