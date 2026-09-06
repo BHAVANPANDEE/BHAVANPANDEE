@@ -454,16 +454,6 @@ alt="Top languages"
 
 ## 📈 Contribution Activity
 
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=020617&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-alt="GitHub Contribution Graph"
-/>
-
-</p>
-
 <br/>
 
 <!-- ========================================================= -->
