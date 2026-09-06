@@ -1,64 +1,52 @@
 <!-- ========================================================= -->
 
-<!--                 BHAVAN PANDE • README                     -->
+<!--                 BHAVAN PANDE • DEVELOPER                  -->
 
 <!-- ========================================================= -->
 
-<!-- ===================== 3D HERO =========================== -->
+<!-- ===================== FULL WIDTH HERO ==================== -->
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0891B2,100:22D3EE&text=BHAVAN%20PANDE&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=JAVA%20FULL%20STACK%20%7C%20SPRING%20BOOT%20%7C%20DEVOPS&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=BHAVAN%20PANDE&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=22&descAlignY=58&descAlign=50&animation=fadeIn&color=0:020617,25:0F172A,55:0891B2,80:06B6D4,100:22D3EE"
+    width="100%"
+  />
 </p>
 
-<br/>
-
-<!-- ===================== TYPING ============================= -->
+<!-- ===================== ANIMATED TITLE ===================== -->
 
 <p align="center">
 
 <a href="https://git.io/typing-svg">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=110&lines=Hi+%F0%9F%91%8B+I'm+Bhavan+Pande;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL+%7C+AWS;Build+%E2%80%A2+Deploy+%E2%80%A2+Scale+%E2%80%A2+Repeat" alt="Typing SVG"/>
-
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Hi+%F0%9F%91%8B+I'm+Bhavan+Pande;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Backend+Engineering+%7C+System+Design+%7C+DevOps;Turning+Ideas+Into+Scalable+Software+%E2%9A%A1"
+alt="Bhavan Pande"
+/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
 <br/>
 
-<!-- ========================================================= -->
+<!-- ===================== TECH ORBIT ========================= -->
 
-<div align="center">
+<p align="center">
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║                  ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗                ║
-║                  ██╔══██╗██║  ██║██╔══██╗██║   ██║                ║
-║                  ██████╔╝███████║███████║██║   ██║                ║
-║                  ██╔═══╝ ██╔══██║██╔══██║╚██╗ ██╔╝                ║
-║                  ██║     ██║  ██║██║  ██║ ╚████╔╝                 ║
-║                  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝                  ║
-║                                                                    ║
-║              JAVA  •  SPRING  •  REACT  •  AWS                   ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/☕_JAVA-020617?style=for-the-badge&labelColor=020617&color=ED8B00"/>
+<img src="https://img.shields.io/badge/🌱_SPRING_BOOT-020617?style=for-the-badge&labelColor=020617&color=6DB33F"/>
+<img src="https://img.shields.io/badge/⚛️_REACT-020617?style=for-the-badge&labelColor=020617&color=61DAFB"/>
+<img src="https://img.shields.io/badge/🗄️_MYSQL-020617?style=for-the-badge&labelColor=020617&color=4479A1"/>
+<img src="https://img.shields.io/badge/☁️_AWS-020617?style=for-the-badge&labelColor=020617&color=FF9900"/>
 
-</div>
+</p>
+
+<br/>
+
+<!-- ===================== ANIMATED DIVIDER =================== -->
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284126-4a6e0b7c-4b2e-4f1f-8c4e-2e6e5d7e4d6c.gif" width="100%" alt="Animated divider"/>
+</p>
 
 <!-- ========================================================= -->
 
@@ -67,34 +55,40 @@
 > Aspiring software engineer with a strong foundation in **Java, Data Structures, SQL, and full-stack development**. Skilled in **Spring Boot, Spring Security, React, MySQL, REST APIs, and JWT authentication**, with hands-on experience in backend architecture and DevOps practices. Passionate about building **scalable, secure, and production-ready applications**.
 
 ```yaml
-SYSTEM.PROFILE
-
-Name          : Bhavan Pande
-Role          : Java Full Stack Developer
-Education     : B.E. Computer Science & Engineering
-CGPA          : 8.7 / 10
-
-Primary Stack : Java · Spring Boot · React · MySQL
-Security      : Spring Security · JWT · RBAC
-Architecture  : REST APIs · Layered Architecture
-DevOps        : Git · GitHub · AWS
-Core CS       : DSA · OS · DBMS · Computer Networks
-Location      : Bengaluru, India
+╔══════════════════════════════════════════════════════════════╗
+║                     SYSTEM.PROFILE                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Name          : Bhavan Pande                               ║
+║  Role          : Java Full Stack Developer                  ║
+║  Education     : B.E. Computer Science & Engineering        ║
+║  CGPA          : 8.7 / 10                                   ║
+║                                                              ║
+║  Backend       : Java · Spring Boot · Spring Security       ║
+║  Frontend      : React · HTML5 · CSS3                       ║
+║  Database      : MySQL · SQL · JDBC                         ║
+║  Security      : JWT · RBAC                                 ║
+║  DevOps        : Git · GitHub · AWS                         ║
+║  Core CS       : DSA · OS · DBMS · Networks                  ║
+║                                                              ║
+║  Location      : Bengaluru, India                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 <!-- ========================================================= -->
 
-## ⚡ Engineering Mindset
+## ⚡ ENGINEERING MINDSET
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/01-LEARN-0A101F?style=for-the-badge&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/02-BUILD-0A101F?style=for-the-badge&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/03-DEBUG-0A101F?style=for-the-badge&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/04-DEPLOY-0A101F?style=for-the-badge&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/05-SCALE-0A101F?style=for-the-badge&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/01%20%E2%86%92%20LEARN-020617?style=for-the-badge&labelColor=020617&color=22D3EE"/>
+<img src="https://img.shields.io/badge/02%20%E2%86%92%20BUILD-020617?style=for-the-badge&labelColor=020617&color=22D3EE"/>
+<img src="https://img.shields.io/badge/03%20%E2%86%92%20DEBUG-020617?style=for-the-badge&labelColor=020617&color=22D3EE"/>
+<img src="https://img.shields.io/badge/04%20%E2%86%92%20DEPLOY-020617?style=for-the-badge&labelColor=020617&color=22D3EE"/>
+<img src="https://img.shields.io/badge/05%20%E2%86%92%20SCALE-020617?style=for-the-badge&labelColor=020617&color=22D3EE"/>
 
 </p>
 
@@ -405,13 +399,11 @@ Data Structures & Algorithms · Operating Systems · DBMS · Computer Networks �
 
 <div align="center">
 
-<!-- STREAK -->
-
 <picture>
 
 <source
 media="(prefers-color-scheme: dark)"
-srcset="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
+srcset="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&background=020617&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
 />
 
 <img
@@ -424,13 +416,11 @@ alt="Bhavan's GitHub streak"
 
 <br/><br/>
 
-<!-- STATS -->
-
 <picture>
 
 <source
 media="(prefers-color-scheme: dark)"
-srcset="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500"
+srcset="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=020617&card_width=500"
 />
 
 <img
@@ -441,13 +431,11 @@ alt="Bhavan's GitHub stats"
 
 </picture>
 
-<!-- TOP LANGUAGES -->
-
 <picture>
 
 <source
 media="(prefers-color-scheme: dark)"
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=020617&card_width=500"
 />
 
 <img
@@ -464,12 +452,12 @@ alt="Top languages"
 
 <!-- ========================================================= -->
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0A101F&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=020617&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true"
 width="100%"
 alt="GitHub Contribution Graph"
 />
@@ -480,25 +468,15 @@ alt="GitHub Contribution Graph"
 
 <!-- ========================================================= -->
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
-</p>
-
-<br/>
-
-<!-- ========================================================= -->
-
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/your-linkedin">
 
-<img src="https://img.shields.io/badge/LINKEDIN-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F"/>
+<img
+src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=020617"
+/>
 
 </a>
 
@@ -506,7 +484,9 @@ alt="GitHub Contribution Graph"
 
 <a href="mailto:your-email@example.com">
 
-<img src="https://img.shields.io/badge/EMAIL-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F"/>
+<img
+src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=020617"
+/>
 
 </a>
 
@@ -514,7 +494,9 @@ alt="GitHub Contribution Graph"
 
 <a href="https://leetcode.com/YOUR-LEETCODE-ID">
 
-<img src="https://img.shields.io/badge/LEETCODE-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A101F"/>
+<img
+src="https://img.shields.io/badge/LEETCODE-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=020617"
+/>
 
 </a>
 
@@ -522,11 +504,14 @@ alt="GitHub Contribution Graph"
 
 <br/>
 
-<!-- ========================================================= -->
+<!-- ===================== FOOTER ============================= -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:0891B2,100:0F172A&animation=fadeIn"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:22D3EE,40:0891B2,70:0F172A,100:020617&animation=fadeIn"
+width="100%"
+/>
 
 </p>
 
@@ -534,16 +519,16 @@ alt="GitHub Contribution Graph"
 
 ### ⚡ CODE • BUILD • DEPLOY • SCALE
 
-**Java · Spring Boot · React · MySQL · AWS**
+`Java` · `Spring Boot` · `React` · `MySQL` · `AWS`
 
-<br/>
+<br/><br/>
 
-<i>⭐️ Thanks for visiting my profile!</i>
+**Thanks for visiting my profile 🚀**
 
 </p>
 
 <!-- ========================================================= -->
 
-<!--                    END OF README                          -->
+<!--                       END                                  -->
 
 <!-- ========================================================= -->
