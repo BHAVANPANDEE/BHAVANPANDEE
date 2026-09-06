@@ -464,39 +464,9 @@ alt="Top languages"
 
 </p>
 
-## 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/your-linkedin">
-
-<img
-src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=020617"
-/>
-
-</a>
-
-  
-
-<a href="mailto:your-email@example.com">
-
 <img
 src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=020617"
 />
-
-</a>
-
-  
-
-<a href="https://leetcode.com/YOUR-LEETCODE-ID">
-
-<img
-src="https://img.shields.io/badge/LEETCODE-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=020617"
-/>
-
-</a>
-
-</p>
 
 <br/>
 
